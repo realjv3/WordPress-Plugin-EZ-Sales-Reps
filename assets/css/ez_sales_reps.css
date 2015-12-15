@@ -1,0 +1,26 @@
+ul#gform_fields_3 input {
+    max-width: 200px;
+}
+div.panel-group{
+    margin: 20px;
+}
+div.panel-heading {
+    background: #99BADD;
+    color: white;
+}
+a, a:hover, a:focus {
+    text-decoration: none !important;
+}
+div.panel {
+    border: 1px solid gray;
+    box-shadow: gray 1px 1px 1px;
+}
+
+.hasDatepicker {
+    width: 100px;
+    height: 25px;
+}
+
+.terr_output {
+    margin: 20px 0 0 0;
+}

@@ -1,0 +1,11 @@
+{
+    "js": {
+        "bootstrapjs": ["ez_sales_reps/vendor/bootstrap-3.3.5-dist/js/bootstrap.min.js", "jquery"],
+        "ez_sales_reps_js": ["ez_sales_reps/assets/js/ez_sales_reps.js"],
+        "table2csv": ["ez_sales_reps/vendor/table2csv.js"]
+    },
+    "css": {
+        "bootstrapcss": ["ez_sales_reps/vendor/bootstrap-3.3.5-dist/css/bootstrap.min.css", "jquery"],
+        "ezsr_main": ["ez_sales_reps/assets/css/ez_sales_reps.css"]
+    }
+}
